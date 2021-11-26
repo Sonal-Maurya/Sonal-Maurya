@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonal-maurya" alt="sonal-maurya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sonalstwt" target="blank"><img src="https://img.shields.io/twitter/follow/sonalstwt?logo=twitter&style=for-the-badge" alt="sonalstwt" /></a> </p>
-<img align="right alt="Coding" width="400" scr="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sonal-Maurya](https://github.com/Sonal-Maurya)
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sonalstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonalstwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonal maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonal maurya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sonal-maurya172602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sonal-maurya172602" height="30" width="40" /></a>
 <a href="https://instagram.com/sonal_maurya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonal_maurya17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@codize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@codize" height="30" width="40" /></a>
+<a href="https://hashnode.com/@codize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codize" height="30" width="40" /></a>
 <a href="https://discord.gg/#3240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3240" height="30" width="40" /></a>
 </p>
 
